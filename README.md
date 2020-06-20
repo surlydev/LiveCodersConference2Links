@@ -46,9 +46,9 @@
 [Twitch](https://www.twitch.tv/developersgarage)
 [Twitter](https://twitter.com/ryano9791)
 
-[Live Coders Conference 2 : Joe Karlsson : ]
-[Twitch](https://www.twitch.tv/x)
-[Twitter](https://twitter.com/x)
+[Live Coders Conference 2 : Joe Karlsson : An Introduction To IoT (Internet of Toilets); Or How I built an IoT Kitty Litter Box Using JavaScript](https://clips.twitch.tv/BenevolentSquareIguanaDansGame)
+[Twitch](https://www.twitch.tv/joe_karlsson)
+[Twitter](https://twitter.com/JoeKarlsson1)
 
 
 [Live Coders Conference 2 : Joe Karlsson : ]
