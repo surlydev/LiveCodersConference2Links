@@ -1,3 +1,20 @@
+#Live Coders conference Saturday 20th June 2020
+
+These are some clips I made so that I could easily find each session, then I thought that people might find them useful. Then someone was looking for the Twitch handles for one of the presenters, so I added Twitch and Twitter links
+
+*known issues* The Twitch and Twitter links are not complete. I need to find and add most of them.
+
+As far as I know the clips will take you to the relevant session, just open the link, then click the 'View full video' button in the bottom-right of the dialogue box.
+
+Let me know if you spot any issues with any of the links, or feel free to do a PR to add Twitter or Twitch links.
+
+Of course the links will be of no use in about 60 days, when Twitch deletes the VODs so get watching soon.
+
+it's late for me (UK time) so I'm going to bed now.
+
+Many thanks to all the Mods and technical team as well as the MC's and presenters for putting on an awesome day.
+
+___
 [Live Coders Conference 2 : CSharpFritz : Native Code, WebAssembly, and C# - Build with Blazor](https://clips.twitch.tv/DifficultEncouragingSowThisIsSparta)
 
 [Twitch](https://www.twitch.tv/csharpfritz)
