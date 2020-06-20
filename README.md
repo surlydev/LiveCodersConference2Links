@@ -10,9 +10,9 @@
 
 [Live Coders Conference 2 : James Montemagno: Building A Friend System with No Servers & No Usernames](https://clips.twitch.tv/SingleObeseMacaroniDancingBanana)
 
-[Live Coders Conference 2 : Aaron Brooks: DevOps, We'll do it Live: Movie Trailer Edition] : https://clips.twitch.tv/VivaciousSavoryOilFrankerZ)
+[Live Coders Conference 2 : Aaron Brooks: DevOps, We'll do it Live: Movie Trailer Edition](https://clips.twitch.tv/VivaciousSavoryOilFrankerZ)
 
-[Live Coders Conference 2 : Start of Jeff Blankenburg (jeff blankenburg) session] : 
+[Live Coders Conference 2 : Jeff Blankenburg : How to Build Your First Alexa Skill](https://clips.twitch.tv/GiftedSeductiveDugongSMOrc)
 
 [Live Coders Conference 2 : Start of Nina Za kharenko (Nnjaio) session] : 
 
