@@ -14,9 +14,9 @@
 
 [Live Coders Conference 2 : Jeff Blankenburg : How to Build Your First Alexa Skill](https://clips.twitch.tv/GiftedSeductiveDugongSMOrc)
 
-[Live Coders Conference 2 : Start of Nina Za kharenko (Nnjaio) session] : 
+[Live Coders Conference 2 : Nina Zakharenko (Nnjaio) : Light Up Your Life, With Python and LEDs](https://clips.twitch.tv/SourMoistConsoleWutFace) 
 
-[Live Coders Conference 2 : Start of Mark Miller's (Coderushed) session] : 
+[Live Coders Conference 2 : Mark Miller (Coderushed) : The Science of Great UI](https://clips.twitch.tv/PrettiestBeautifulCaterpillarTheTarFu)
 
 [Live Coders Conference 2 : Start of Bryan Robinson's session] : 
 
