@@ -89,13 +89,13 @@ ___
 
 ___
 
-[Live Coders Conference 2 : Aren Davey (CozyCoding) : ]
+[Live Coders Conference 2 : Aren Davey (CozyCoding) : An Indoctrination to the Cult of Geometry via JavaScript](https://clips.twitch.tv/DelightfulTolerantShrimpLeeroyJenkins)
 
 [Twitch](https://www.twitch.tv/x)
  | [Twitter](https://twitter.com/x)
 
 ___
-[Live Coders Conference 2 : Tyler Leonhardt : ]
+[Live Coders Conference 2 : Tyler Leonhardt : Auto generate code to interact with your REST API using AutoRest](https://clips.twitch.tv/EnticingCrackyLampFailFish)
 
 [Twitch](https://www.twitch.tv/x)
  | [Twitter](https://twitter.com/x)
