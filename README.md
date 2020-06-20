@@ -50,14 +50,9 @@
 [Twitch](https://www.twitch.tv/joe_karlsson)
 [Twitter](https://twitter.com/JoeKarlsson1)
 
-
-[Live Coders Conference 2 : Joe Karlsson : ]
-[Twitch](https://www.twitch.tv/x)
-[Twitter](https://twitter.com/x)
-
-[Live Coders Conference 2 : Raphael Mun (Instafluff) : ]
+[Live Coders Conference 2 : Raphael Mun (Instafluff) : Game Design is a Science!](https://clips.twitch.tv/FairVictoriousYamKappaClaus)
 [Twitch](https://www.twitch.tv/instafluff)
-[Twitter](https://twitter.com/x)
+[Twitter](https://twitter.com/InstafluffTV)
 
 [Live Coders Conference 2 : Dr. Miko Charbonneau (DrMikachu) : ]
 [Twitch](https://www.twitch.tv/x)
