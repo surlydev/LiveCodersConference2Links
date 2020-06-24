@@ -1,4 +1,4 @@
-#Live Coders conference Saturday 20th June 2020
+#Live Coders conference Saturday 20th June 2020 - [Click here for the agenda](https://clips.twitch.tv/SavoryAbstemiousGuanacoHeyGuys)
 
 These are some clips I made so that I could easily find each session, then I thought that people might find them useful. Then someone was looking for the Twitch handles for one of the presenters, so I added Twitch and Twitter links
 
